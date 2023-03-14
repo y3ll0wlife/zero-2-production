@@ -1,10 +1,5 @@
 fn main() {
     println!("Hello, world!");
 
-    let x = 1 +
-
-
-
-
-    5;
+    let _x = 1 + 5;
 }
